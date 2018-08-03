@@ -12,6 +12,7 @@ if ip_input !=None:
             print("false")
         
     print(''.join(ip))
+    print(ip_input)
 else:
     print("Somethnig went wrong with the IP. Please check the IP")    
         
